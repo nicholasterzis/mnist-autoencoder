@@ -1,4 +1,4 @@
-# Autoencoder for the MNIST Dataset returning the +1 increment of input digit
+### Autoencoder for the MNIST Dataset returning the +1 increment of input digit
 
 Preprocessing: Feature Scaling (Single Channel Normalization) <br/>
 Models Used: PCA, MLP AE, Conv AE, Conv+MLP AE <br/>
